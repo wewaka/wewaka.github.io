@@ -6,3 +6,5 @@ The Big Lebowski is a 1998 crime comedy film written, produced, and directed by 
 * White Russion Lover
 
 > Zum Glück habe ich meinen Drogenkonsum ziemlich gut im Griff.
+
+<img src="https://en.wikipedia.org/wiki/The_Big_Lebowski#/media/File:Biglebowskiposter.jpg" />
