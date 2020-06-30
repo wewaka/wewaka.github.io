@@ -4,3 +4,5 @@ The Big Lebowski is a 1998 crime comedy film written, produced, and directed by 
 * slacker
 * bowler
 * White Russion Lover
+
+> Zum Glück habe ich meinen Drogenkonsum ziemlich gut im Griff.
